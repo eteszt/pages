@@ -1,2 +1,3 @@
 első sor
 
+2023-05-24 14:42:34.938510;alma;5;Alap;magyarul;általános 
